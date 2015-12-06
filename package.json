@@ -2,5 +2,5 @@
   "name": "atom-ocaml-bindings",
   "description": "Contains OCaml bindings for the Atom editor, for use through js_of_ocaml",
   "repository": "",
-  "version": "0.0.0"
+  "version": "0.0.1"
 }
